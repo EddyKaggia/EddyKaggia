@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EddyKaggia
 - 👀 I’m interested in becoming a decent devloper
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on (not yet there yet as I have only just started)
+- 💞️ I’m looking to collaborate on anything. I just started but I am open to learning
 - 📫 How to reach me: eddykaggia@gmail.com
 
 <!---
