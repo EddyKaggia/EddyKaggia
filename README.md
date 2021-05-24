@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a decent devloper
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything. I just started but I am open to learning
-- 📫 How to reach me: eddykaggia@gmail.com
+- 📫 How to reach me: kagzcodes@gmail.com
 
 <!---
 EddyKaggia/EddyKaggia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
