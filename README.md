@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EddyKaggia
-- 👀 I’m interested in becoming a decent devloper
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in becoming a decent Software Devloper
+- 🌱 I’m currently learning responsive web design
 - 💞️ I’m looking to collaborate on anything. I just started but I am open to learning
 - 📫 How to reach me: kagzcodes@gmail.com
 
