@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Node/Express, SQL and MongoDB**
 
-- 📫 How to reach me **eddykaggiacodes@gmail.com**! <a href="mailto:eddykaggiacodes@gmail.com" <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+- 📫 How to reach me **eddykaggiacodes@gmail.com**! <a href="mailto:eddykaggiacodes@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1P-0O4Bhu2Y52RDPN53mqUPzcobwMu0EPt7H5LSmbh9o/edit?usp=sharing)
 
