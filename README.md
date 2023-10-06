@@ -7,26 +7,25 @@
 
 💻 JavaScript enthusiast 🌐 | React 🔥 | Node.js ⚡ | MongoDB 🍃  
 
-🕸 Building the web, one line of code at a time. 
-🌟 Let's create something amazing together! 
+🕸 Building the web, one line of code at a time. 🕸
+🌟 Let's create something amazing together! 🌟
 
 - 🌱 I’m currently learning **TypeScript and Java**
 
 - 💬 Ask me about **React, Node/Express, SQL and MongoDB**
 
-- 📫 How to reach me: <a href="mailto:eddykaggiacodes@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank/></a>
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1P-0O4Bhu2Y52RDPN53mqUPzcobwMu0EPt7H5LSmbh9o/edit?usp=sharing)
+- 📄 Get to know my work experience <a href="https://docs.google.com/document/d/1P-0O4Bhu2Y52RDPN53mqUPzcobwMu0EPt7H5LSmbh9o/edit?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" alt="eddy-kaggia" height="30"/></a>
 
 <br>
 
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
-  Feel free to reach out for collaboration or a friendly tech chat. 🤝 
+🤝  Feel free to reach out for collaboration or a friendly tech chat. 🤝 
   
-<a href="https://linkedin.com/in/eddy-kaggia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eddy-kaggia" height="30" width="40" /></a>
-<a href="https://codepen.io/eddykaggia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eddykaggia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kagzcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kagzcodes" height="30" width="40" /></a>
+<a href="mailto:eddykaggiacodes@gmail.com" target="blank"><img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/eddy-kaggia" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eddy-kaggia" height="30"/></a>
+<a href="https://codepen.io/eddykaggia" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="eddykaggia" height="30"/></a>
+<a href="https://www.leetcode.com/kagzcodes" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="kagzcodes" height="30"/></a>
 </p>
 
 <br>
