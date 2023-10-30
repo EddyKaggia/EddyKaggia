@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Node/Express, SQL and MongoDB**
 
-- 📄 Get to know my work experience <a href="https://docs.google.com/document/d/1P-0O4Bhu2Y52RDPN53mqUPzcobwMu0EPt7H5LSmbh9o/edit?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" alt="eddy-kaggia" height="30" target="blank"/></a>
+- 📄 Get to know my professional experience <a href="https://docs.google.com/document/d/1P-0O4Bhu2Y52RDPN53mqUPzcobwMu0EPt7H5LSmbh9o/edit?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" alt="eddy-kaggia" height="30" target="blank"/></a>
 
 <br>
 
