@@ -21,7 +21,7 @@
 
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
-🤝  Feel free to reach out for collaboration or a friendly tech chat. 🤝 
+🤝  Feel free to reach out for collaboration or a friendly chat. 🤝 
   
 <a href="mailto:eddykaggiacodes@gmail.com" target="blank"><img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/eddy-kaggia" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eddy-kaggia" height="30"/></a>
