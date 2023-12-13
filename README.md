@@ -11,7 +11,7 @@
 
 🌟 Let's create something amazing together! 🌟
 
-- 🌱 I’m currently learning **TypeScript and Tensorflow.js**
+- 🌱 I’m currently learning **Python and Tensorflow.js**
 
 - 💬 Ask me about **React, Node/Express, SQL and MongoDB**
 
