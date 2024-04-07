@@ -1,6 +1,6 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi, I'm Eddy 👋</h1>
-<h3 align="center"> 🚀 I'm a Full-stack MERN developer passionate about turning ideas into scalable, user-friendly software.</h3>
+<h3 align="center"> 🚀 I'm a Full-stack developer passionate about turning ideas into scalable, user-friendly software.</h3>
 <img align="right" alt="Coding" width="400" height="400" src="https://blush.design/api/download?shareUri=ktYp4NwCYtCh_9k7&c=Monochromatic_0%7E52dc82-0.2%7Efd5d8e_Skin_0%7E694d3d-0.2%7Eae5d29&w=800&h=800&fm=png">
 
 <br>
