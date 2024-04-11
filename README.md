@@ -5,7 +5,7 @@
 
 <br>
 
-💻 JavaScript enthusiast 🌐 | React 🔥 | Node.js ⚡ | MongoDB 🍃  
+💻 Java & JavaScript enthusiast | Python | Spring | React | Node.js 
 
 🕸 Building the web, one line of code at a time. 🕸
 
