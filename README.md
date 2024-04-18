@@ -11,7 +11,7 @@
 
 🌟 Let's create something amazing together! 🌟
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Java and Python**
 
 - 💬 Ask me about **Spring, React, Node/Express & SQL**
 
