@@ -23,9 +23,7 @@
 <p align="left">
 🤝  Feel free to reach out for collaboration or a friendly chat. 🤝 
   
-<a href="#" onclick="window.open('mailto:eddykaggiacodes@gmail.com', 'EmailPopup', 'width=600,height=400'); return false;">
-  <img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:eddykaggiacodes@gmail.com" target="_blank" onclick="window.open('mailto:eddykaggiacodes@gmail.com', 'emailWindow', 'width=600,height=400'); return false;"><img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/></a>
 <a href="https://linkedin.com/in/eddy-kaggia" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eddy-kaggia" height="30"/></a>
 <a href="https://www.leetcode.com/kagzcodes" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="kagzcodes" height="30"/></a>
 <a href="https://www.hackerrank.com/profile/eddykaggiacodes" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="kagzcodes" height="30"/></a>
