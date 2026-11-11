@@ -83,5 +83,4 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddykaggia&show_icons=true&locale=en&layout=compact" alt="eddykaggia" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddykaggia)](https://github.com/anuraghazra/github-readme-stats)
 
